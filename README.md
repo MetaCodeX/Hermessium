@@ -39,5 +39,5 @@ En un futuro, Hermessium incluirá **HermesBot**, un chatbot asociado que podrá
 HermesBot es un chatbot que se integrará con WhatsApp para permitir a los estudiantes revisar sus tareas pendientes desde cualquier lugar. Sin embargo, la funcionalidad completa estará disponible solo en la aplicación principal, asegurando que los usuarios accedan a todas las características esenciales.
 ---
 ## 👨‍💻 Desarrollado por
-- **MetaCodeX**
+ **MetaCodeX**
 Una división de **MacroStasis.**
